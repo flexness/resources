@@ -7,13 +7,20 @@ list of resources, tools, links, frameworks etc. pp. - everything thats "helpful
 - https://www.sketchappsources.com/
 
 ## learning-resources / learning-docs / improvement
+
+### general / bundled
 - https://www.w3docs.com/
-- https://www.frontendpractice.com/ (learn by rebuilding)
 - https://riptutorial.com/
-- https://www.frontendmentor.io/
-- https://stylestage.dev/ (css showcase; styling one predefined page with css)
 - https://www.codewars.com/
+
+### css & scss
+- https://www.frontendmentor.io/
+- https://www.frontendpractice.com/ (learn by rebuilding)
 - https://cssbattle.dev/
+- https://stylestage.dev/ (css showcase; styling one predefined page with css)
+
+### js & vuejs
+- https://vuejobs.com/courses
 
 ## wordpress
 - http://wppb.io/ (wordpress plugin boilerplate)
