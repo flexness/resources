@@ -2,8 +2,18 @@
 list of resources, tools, links, frameworks etc. pp. - everything thats "helpful" or where you can get material
 
 ## resources
+- https://placekitten.com/ 
 - https://www.svgrepo.com/
 - https://www.sketchappsources.com/
+
+## learning-resources / learning-docs / improvement
+- https://www.w3docs.com/
+- https://www.frontendpractice.com/ (learn by rebuilding)
+- https://riptutorial.com/
+- https://www.frontendmentor.io/
+- https://stylestage.dev/ (css showcase; styling one predefined page with css)
+- https://www.codewars.com/
+- https://cssbattle.dev/
 
 ## wordpress
 - http://wppb.io/ (wordpress plugin boilerplate)
@@ -29,6 +39,7 @@ list of resources, tools, links, frameworks etc. pp. - everything thats "helpful
 ## tools
 - https://sec.hpi.de/ilc/search (check scammed mails)
 - https://www.thinkwithgoogle.com/feature/testmysite/ (site testing)
+- https://validator.w3.org/nu/ (html checker)
 - https://website.grader.com/ (grade a website)
 - https://www.blobmaker.app/ (create random blobs for design/layout)
 - https://getwaves.io/ (create waves for design/layout)
