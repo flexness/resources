@@ -3,6 +3,7 @@ list of resources, tools, links, frameworks etc. pp. - everything thats "helpful
 
 ## resources
 - https://placekitten.com/ 
+- https://randomuser.me/
 - https://www.svgrepo.com/
 - https://www.sketchappsources.com/
 
