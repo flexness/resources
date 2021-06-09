@@ -34,9 +34,9 @@ list of resources, tools, links, frameworks etc. pp. - everything thats "helpful
 - https://getbootstrap.com/
 - https://tailwindcss.com/
 
-## online webbuilder
-- https://webflow.com/
-- 
+## online tools
+- https://webflow.com/ (online web builder)
+- https://dillinger.io/ (online markdown editor)
 
 ## web-dev & app-dev & framework stuff
 - https://vuejs.org/ (js framework)
