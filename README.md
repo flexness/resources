@@ -38,12 +38,13 @@ list of resources, tools, links, frameworks etc. pp. - everything thats "helpful
 - https://webflow.com/
 - 
 
-## web-dev & framework stuff
+## web-dev & app-dev & framework stuff
 - https://vuejs.org/ (js framework)
 - https://vitejs.dev/ (bundler/build-tool for vuejs)
 - https://reactjs.org/ (js library)
 - https://nextjs.org/ (react framework)
 - https://webpack.js.org/ (module bundler)
+- https://flutter.dev/ (cross-platform ui sdk for apps)
 
 ## tools
 - https://sec.hpi.de/ilc/search (check scammed mails)
