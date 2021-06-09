@@ -46,6 +46,9 @@ list of resources, tools, links, frameworks etc. pp. - everything thats "helpful
 - https://webpack.js.org/ (module bundler)
 - https://flutter.dev/ (cross-platform ui sdk for apps)
 
+## workflow
+- https://browsersync.io/ (server + filewatcher + autoreload)
+
 ## tools
 - https://sec.hpi.de/ilc/search (check scammed mails)
 - https://www.thinkwithgoogle.com/feature/testmysite/ (site testing)
