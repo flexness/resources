@@ -85,6 +85,9 @@ list of resources, tools, links, frameworks etc. pp. - everything thats "helpful
 ## fun/useless stuff
 - https://frinkiac.com/ (simpsons screencaps)
 
+## it / hardware
+- https://pc-builds.com/calculator/
+
 ## game dev
 - https://aws.amazon.com/de/lumberyard/
 
