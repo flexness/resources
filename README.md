@@ -62,7 +62,7 @@ list of resources, tools, links, frameworks etc. pp. - everything thats "helpful
 - https://icons8.com/lunacy (design)
 - https://spline.design/ (3d web)
 - https://www.aseprite.org/ (pixel art tool, animated sprite editor)
-- 
+- https://typora.io/ (markdown editor)
 
 ## dev environments
 
