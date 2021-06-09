@@ -87,6 +87,7 @@ list of resources, tools, links, frameworks etc. pp. - everything thats "helpful
 
 ## it / hardware
 - https://pc-builds.com/calculator/
+- https://www.userbenchmark.com/
 
 ## game dev
 - https://aws.amazon.com/de/lumberyard/
