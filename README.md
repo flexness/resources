@@ -53,6 +53,12 @@ list of resources, tools, links, frameworks etc. pp. - everything thats "helpful
 - https://getwaves.io/ (create waves for design/layout)
 - https://polypane.app/ (paid special browser for better workflow, testing, ..)
 
+## software
+- https://icons8.com/lunacy (design)
+- https://spline.design/ (3d web)
+- https://www.aseprite.org/ (pixel art tool, animated sprite editor)
+- 
+
 ## dev environments
 
 - https://laragon.org/
